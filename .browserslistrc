@@ -1,0 +1,7 @@
+[production]
+> 1%
+not dead
+not ie < 10
+last 2 versions
+iOS >= 9
+Android >= 5
